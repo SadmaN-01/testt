@@ -1,0 +1,39 @@
+{
+  "name": "ayn",
+  "version": "0.0.1",
+  "description": "by alper.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "chalk": "^4.1.0",
+    "moment": "^2.29.1",
+    "jimp": "^0.16.1",
+    "wio.db": "^4.0.10",
+    "express": "^4.17.1",
+    "request": "^2.88.2",
+    "snekfetch": "^4.0.4",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^4.4.1",
+    "discordjs-advanced": "^2.0.6",
+    "weather-js": "^2.0.0",
+    "moment-duration-format": "^2.3.2",
+    "speedtest-net": "^2.1.0",
+    "common-tags": "^1.8.0",
+    "node-superfetch": "^0.1.10",
+    "cleverbot-free": "^1.0.5",
+    "discord-anti-spam-tr": "^0.7.4",
+    "dctr-antispam.js": "^0.1.1",
+    "discord-giveaways": "^4.4.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
